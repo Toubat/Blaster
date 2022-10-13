@@ -60,6 +60,16 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp",
 		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
