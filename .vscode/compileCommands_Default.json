@@ -1,0 +1,62 @@
+[
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\MultiplayerSessions.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\MultiplayerSessionsSubsystem.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\Menu.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\MultiplayerSessions.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\MultiplayerSessionsSubsystem.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Blaster.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Blaster.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\Blaster.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\BlasterGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\Source\\Blaster\\BlasterGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\touba\\Desktop\\Multiplayer\\Blaster\\.vscode\\compileCommands_Default\\Blaster.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
